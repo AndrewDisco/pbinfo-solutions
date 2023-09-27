@@ -1,6 +1,6 @@
 # PBinfo Solutions
 
-![image](https://github.com/AndrewDisco/pbinfo-solutions/assets/66111825/6045ec4b-cb29-47c0-9b9c-65d1e88c5518)
+![image]([https://github.com/AndrewDisco/pbinfo-solutions/assets/66111825/6045ec4b-cb29-47c0-9b9c-65d1e88c5518](https://cdn.upload.systems/uploads/by82ssfj.png))
 
 **PBinfo Solutions** este un proiect creat pentru a ajuta programatorii să rezolve problemele de informatică de pe site-ul **pbinfo.ro**. Acesta oferă soluții pentru problemele disponibile pe platformă sub forma unor fișiere cu numele `NumeProblema.cpp` și include, în unele cazuri, comentarii explicative pentru a ajuta utilizatorii să înțeleagă soluțiile propuse.
 
