@@ -1,6 +1,8 @@
 # PBinfo Solutions
 
-![image](https://cdn.upload.systems/uploads/by82ssfj.png)
+<div style="text-align: center;">
+    <img src="https://cdn.upload.systems/uploads/by82ssfj.png" alt="Logo PBinfo Solutions" />
+</div>
 
 **PBinfo Solutions** este un proiect creat pentru a ajuta programatorii să rezolve problemele de informatică de pe site-ul **pbinfo.ro**. Acesta oferă soluții pentru problemele disponibile pe platformă sub forma unor fișiere cu numele `NumeProblema.cpp` în folderul "solutions" și include, în unele cazuri, comentarii explicative pentru a ajuta utilizatorii să înțeleagă soluțiile propuse.
 
