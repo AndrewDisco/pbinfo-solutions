@@ -1,8 +1,10 @@
 # PBinfo Solutions
 
-![image](https://cdn.upload.systems/uploads/by82ssfj.png)
+<p align="center">
+  <img src="https://cdn.upload.systems/uploads/by82ssfj.png" alt="Logo PBinfo Solutions" />
+</p>
 
-**PBinfo Solutions** este un proiect creat pentru a ajuta programatorii să rezolve problemele de informatică de pe site-ul **pbinfo.ro**. Acesta oferă soluții pentru problemele disponibile pe platformă sub forma unor fișiere cu numele `NumeProblema.cpp` și include, în unele cazuri, comentarii explicative pentru a ajuta utilizatorii să înțeleagă soluțiile propuse.
+**PBinfo Solutions** este un proiect creat pentru a ajuta programatorii să rezolve problemele de informatică de pe site-ul **pbinfo.ro**. Acesta oferă soluții pentru problemele disponibile pe platformă sub forma unor fișiere cu numele `NumeProblema.cpp` în folderul "solutions" și include, în unele cazuri, comentarii explicative pentru a ajuta utilizatorii să înțeleagă soluțiile propuse.
 
 ## Cuprins
 
@@ -18,7 +20,7 @@
 
 ## Cum funcționează
 
-Proiectul organizează soluțiile pentru probleme sub forma unor fișiere cu numele `NumeProblema.cpp`, unde `NumeProblema` reprezintă numele problemei respective. Aceste fișiere conțin codul sursă al soluției și pot include comentarii explicative pentru a ajuta la înțelegerea soluției.
+Proiectul organizează soluțiile pentru probleme sub forma unor fișiere cu numele `NumeProblema.cpp` în folderul "solutions", unde `NumeProblema` reprezintă numele problemei respective. Aceste fișiere conțin codul sursă al soluției și pot include comentarii explicative pentru a ajuta la înțelegerea soluției.
 
 ## Utilizare
 
@@ -28,7 +30,7 @@ Pentru a utiliza **PBinfo Solutions**, urmați acești pași:
 
 2. Navigați la dosarul corespunzător problemei pe care doriți să o rezolvați sau să o înțelegeți.
 
-3. Aici, veți găsi fișierul cu numele `NumeProblema.cpp`, care conține soluția pentru problema respectivă.
+3. Aici, veți găsi folderul "solutions" și fișierul cu numele `NumeProblema.cpp`, care conține soluția pentru problema respectivă.
 
 4. Deschideți fișierul `NumeProblema.cpp` în editorul dvs. de cod preferat pentru a vedea implementarea soluției.
 
